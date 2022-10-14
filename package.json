@@ -3,8 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
-    "uploader": "open https://zenn.dev/dashboard/uploader",
-    "zenn": "zenn"
+    "uploader": "open https://zenn.dev/dashboard/uploader"
   },
   "dependencies": {
     "zenn-cli": "^0.1.128"
